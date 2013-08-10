@@ -1,12 +1,6 @@
 package figurasGeometricas;
 
-/**
- * Created with IntelliJ IDEA.
- * User: David Restrepo
- * Date: 6/08/13
- * Time: 09:55 AM
- * To change this template use File | Settings | File Templates.
- */
+
 public class Circulo extends Figura {
 
     public  double radio;
